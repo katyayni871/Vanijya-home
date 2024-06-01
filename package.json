@@ -2,11 +2,11 @@
   "name": "shoppingmall",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+   
   "scripts": {
     "start": "parcel index.html",
     "test": "jest",
-    "build": "parcel build"
+    "build": "parcel build ./index.html"
   },
   "keywords": [],
   "author": "",
